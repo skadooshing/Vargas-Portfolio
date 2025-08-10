@@ -40,10 +40,6 @@ export const DATA = {
 
         navbar: true,
       },
-      resume: {
-        file: "/Vargas, Patrick - Resume/CV.pdf",
-        downloadName: "Vargas, Patrick - Resume/CV.pdf",
-      },
       LinkedIn: {
         name: "LinkedIn",
         url: "https://www.linkedin.com/in/patrick-v1/",
