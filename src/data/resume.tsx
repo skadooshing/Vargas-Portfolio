@@ -3,8 +3,8 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 
 export const DATA = {
   name: "Patrick Vargas",
-  initials: "DV",
-  url: "https://dillion.io",
+  initials: "PV",
+  url: "https://vargas-portfolio.vercel.app/",
   location: "Tuguegarao City, Carig Sur",
   locationLink: "https://maps.app.goo.gl/LWsNuX4SZBTPpobdA",
   description:
@@ -16,6 +16,10 @@ export const DATA = {
     "React",
     "Next.js",
     "Typescript",
+    "Vue.js",
+    "PHP",
+    "Laravel Framework",
+    "Flutter",
     "Node.js",
     "Python",
     "JavaScript",
