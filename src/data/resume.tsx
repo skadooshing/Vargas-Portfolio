@@ -70,6 +70,18 @@ export const DATA = {
 
   work: [
     {
+      company: "Codebility",
+      href: "Codebility.tech",
+      badges: [],
+      location: "Remote",
+      title: "Admin",
+      logoUrl: "/codebility logo.jpg",
+      start: "August 2025",
+      end: "Currently An Intern",
+      description:
+        "Managed and maintained administrative systems, ensuring smooth daily operations through efficient scheduling, documentation, and correspondence handling. Oversaw database management and record-keeping for accuracy and compliance, streamlined reporting processes for quick decision-making, and coordinated with teams to support organizational goals and improve overall productivity",
+    },
+    {
       company: "Philippine National Police PRO 2",
       href: "https://www.facebook.com/pro2rpio/",
       badges: [],
