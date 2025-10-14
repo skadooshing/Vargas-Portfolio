@@ -79,7 +79,7 @@ export const DATA = {
       start: "October 1, 2025",
       end: "Currently Working",
       description:
-        "Managed and maintained administrative systems, ensuring smooth daily operations through efficient scheduling, documentation, and correspondence handling. Oversaw database management and record-keeping for accuracy and compliance, streamlined reporting processes for quick decision-making, and coordinated with teams to support organizational goals and improve overall productivity",
+        "Facilitates full liquidation of cash advances within prescribed time. Monitors fund liquidation and submit monthly report. Maintains proper procurement and financial records. Ensures uninterrupted provision of support services to PBIDC and NICC. Performs IT-related functions and submits monthly report based on the Key Performance Indicators set by DTI",
     },
     {
       company: "Codebility",
