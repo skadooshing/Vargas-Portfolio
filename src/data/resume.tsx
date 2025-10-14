@@ -70,6 +70,18 @@ export const DATA = {
 
   work: [
     {
+      company: "Department of Trade and Industry",
+      href: "https://www.dti.gov.ph/",
+      badges: [],
+      location: "Regional Government Center, Carig Sur 3500 Tuguegarao City, Philippines",
+      title: "IT Officer & PBIDC Admin",
+      logoUrl: "/DTI-LOGO.png",
+      start: "October 1, 2025",
+      end: "Currently Working",
+      description:
+        "Managed and maintained administrative systems, ensuring smooth daily operations through efficient scheduling, documentation, and correspondence handling. Oversaw database management and record-keeping for accuracy and compliance, streamlined reporting processes for quick decision-making, and coordinated with teams to support organizational goals and improve overall productivity",
+    },
+    {
       company: "Codebility",
       href: "Codebility.tech",
       badges: [],
