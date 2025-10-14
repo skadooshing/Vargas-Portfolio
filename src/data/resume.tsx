@@ -75,7 +75,7 @@ export const DATA = {
       badges: [],
       location: "Regional Government Center, Carig Sur 3500 Tuguegarao City, Philippines",
       title: "IT Officer & PBIDC Admin",
-      logoUrl: "/DTI-LOGO.png",
+      logoUrl: "/dti-new.png",
       start: "October 1, 2025",
       end: "Currently Working",
       description:
