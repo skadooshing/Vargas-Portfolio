@@ -28,6 +28,8 @@ export const DATA = {
     "C#",
     "Java",
     "Vb.Net",
+    "Wix",
+    "Wordpress",
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
