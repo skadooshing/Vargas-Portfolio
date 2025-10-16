@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Aspiring Software Developer based in Tuguegarao City. Passionate about building innovative solutions and making a positive impact. Actively sharing ideas and connecting with others on LinkedIn.",
   summary:
-    "At the end of college, I decided to fully pursue my passion for technology and innovation—venturing into both Virtual Assistance and Software Development. Along the way, I earned Best Capstone, Academic Distinction, and Scholastic Award, became a DICT Hackathon Finalist, and discovered my love for solving real-world problems through code. Today, I’m building a career that blends creativity, technical skill, and a drive to deliver impactful solutions.",
+    "At the end of college, I decided to fully pursue my passion for technology and innovation—venturing into both Virtual Assistance and Software Development. Along the way, I earned Best Capstone, Academic Distinction, Academic Excellence, Leadership Award, and Scholastic Award, became a DICT Hackathon Finalist, and discovered my love for solving real-world problems through code. Today, I’m building a career that blends creativity, technical skill, and a drive to deliver impactful solutions.",
   avatarUrl: "/try.jpg",
   skills: [
     "React",
