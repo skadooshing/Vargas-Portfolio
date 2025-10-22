@@ -240,17 +240,12 @@ export const DATA = {
       description:
         "Developed a modern, user-friendly mobile application that delivers a seamless online shopping experience. This app enables customers to browse products, add items to their cart, make secure payments, and track orders directly from their smartphones. With personalized recommendations, real-time notifications, and an intuitive interface, it boosts convenience, accessibility, and customer engagement for online businesses.",
       technologies: [
-        "Next.js",
-        "Typescript",
-        "PostgreSQL",
-        "Prisma",
-        "TailwindCSS",
-        "Cloudflare Workers",
+        "Figma",
       ],
       links: [
         {
           type: "Website",
-          href: "https://github.com/skadooshing/E-Commerce-Mobile-App",
+          href: "https://www.figma.com/design/0Te0yFoysFAyb9Joe8kxwQ/New_ByteWave?node-id=0-1&t=zkbshsrgU607zVfS-1",
           icon: <Icons.globe className="size-3" />,
         },
       ],
